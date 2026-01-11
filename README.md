@@ -1,11 +1,17 @@
-## Site professionnel le Studio Maloute
+## 💯 Site professionnel le Studio Maloute
 
 <body>
     <div>
-        <img src="assets/img1.png" alt="Image 1" style="width: 50%;">
+        <img src="https://github.com/axiomcity/maloute.de/blob/main/img1.png" alt="Image 1" style="width: 50%;">
     </div>
 </body>
 
 ---
 
-## 🧩 Projet PARCACHAT
+## 🙆 ma boutique
+
+<body>
+    <div>
+        <img src="https://github.com/axiomcity/maloute.de/blob/main/img1.png" alt="Image 1" style="width: 50%;">
+    </div>
+</body>
